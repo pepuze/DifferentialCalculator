@@ -1,0 +1,68 @@
+﻿  main.cpp
+A:\projects\cpp\diffEquationCalculator\diffEquationCalculator\main.cpp(109,48): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+A:\projects\cpp\diffEquationCalculator\diffEquationCalculator\main.cpp(109,31): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+A:\projects\cpp\diffEquationCalculator\diffEquationCalculator\main.cpp(119,72): warning C4244: аргумент: преобразование "_Ty2" в "T", возможна потеря данных
+          with
+          [
+              _Ty2=double
+          ]
+          and
+          [
+              T=float
+          ]
+A:\projects\cpp\diffEquationCalculator\diffEquationCalculator\main.cpp(119,58): warning C4244: аргумент: преобразование "_Ty1" в "T", возможна потеря данных
+          with
+          [
+              _Ty1=double
+          ]
+          and
+          [
+              T=float
+          ]
+A:\projects\cpp\diffEquationCalculator\diffEquationCalculator\main.cpp(124,82): warning C4244: аргумент: преобразование "_Ty2" в "T", возможна потеря данных
+          with
+          [
+              _Ty2=double
+          ]
+          and
+          [
+              T=float
+          ]
+A:\projects\cpp\diffEquationCalculator\diffEquationCalculator\main.cpp(124,68): warning C4244: аргумент: преобразование "_Ty1" в "T", возможна потеря данных
+          with
+          [
+              _Ty1=double
+          ]
+          and
+          [
+              T=float
+          ]
+A:\projects\cpp\diffEquationCalculator\diffEquationCalculator\main.cpp(136,13): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+A:\projects\cpp\diffEquationCalculator\diffEquationCalculator\main.cpp(151,17): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+A:\projects\cpp\diffEquationCalculator\diffEquationCalculator\main.cpp(158,17): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+A:\projects\cpp\diffEquationCalculator\diffEquationCalculator\main.cpp(193,24): warning C4244: *=: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+A:\projects\cpp\diffEquationCalculator\diffEquationCalculator\main.cpp(194,24): warning C4244: *=: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+A:\projects\cpp\diffEquationCalculator\diffEquationCalculator\main.cpp(209,33): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+A:\projects\cpp\diffEquationCalculator\diffEquationCalculator\main.cpp(218,33): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  Создание кода
+  4 of 513 functions ( 0.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    16 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  diffEquationCalculator.vcxproj -> A:\projects\cpp\diffEquationCalculator\Release\diffEquationCalculator.exe

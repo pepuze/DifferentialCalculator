@@ -1,0 +1,51 @@
+﻿  functions.cpp
+  main.cpp
+A:\projects\cpp\diffEquationCalculator\diffEquationCalculator\main.cpp(76,47): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+A:\projects\cpp\diffEquationCalculator\diffEquationCalculator\main.cpp(76,30): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+A:\projects\cpp\diffEquationCalculator\diffEquationCalculator\main.cpp(90,13): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+A:\projects\cpp\diffEquationCalculator\diffEquationCalculator\main.cpp(105,17): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+A:\projects\cpp\diffEquationCalculator\diffEquationCalculator\main.cpp(112,17): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+A:\projects\cpp\diffEquationCalculator\diffEquationCalculator\main.cpp(136,24): warning C4244: *=: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+A:\projects\cpp\diffEquationCalculator\diffEquationCalculator\main.cpp(137,24): warning C4244: *=: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+  Создание кода...
+A:\projects\cpp\diffEquationCalculator\diffEquationCalculator\functions.cpp(297): warning C4715: calcFunc: значение возвращается не при всех путях выполнения
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: __thiscall sf::String::String(char const *,class std::locale const &)" (__imp_??0String@sf@@QAE@PBDABVlocale@std@@@Z) в функции __catch$_main$6.
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: __thiscall sf::String::~String(void)" (__imp_??1String@sf@@QAE@XZ) в функции __catch$_main$6.
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: static class sf::Vector2<int> __cdecl sf::Mouse::getPosition(void)" (__imp_?getPosition@Mouse@sf@@SA?AV?$Vector2@H@2@XZ) в функции __catch$_main$6.
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: __thiscall sf::VideoMode::VideoMode(unsigned int,unsigned int,unsigned int)" (__imp_??0VideoMode@sf@@QAE@III@Z) в функции __catch$_main$6.
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: void __thiscall sf::Window::close(void)" (__imp_?close@Window@sf@@QAEXXZ) в функции __catch$_main$6.
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: bool __thiscall sf::Window::isOpen(void)const " (__imp_?isOpen@Window@sf@@QBE_NXZ) в функции __catch$_main$6.
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: bool __thiscall sf::Window::pollEvent(class sf::Event &)" (__imp_?pollEvent@Window@sf@@QAE_NAAVEvent@2@@Z) в функции __catch$_main$6.
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: void __thiscall sf::Window::display(void)" (__imp_?display@Window@sf@@QAEXXZ) в функции __catch$_main$6.
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: __thiscall sf::VertexArray::VertexArray(enum sf::PrimitiveType,unsigned int)" (__imp_??0VertexArray@sf@@QAE@W4PrimitiveType@1@I@Z) в функции __catch$_main$6.
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: class sf::Vertex & __thiscall sf::VertexArray::operator[](unsigned int)" (__imp_??AVertexArray@sf@@QAEAAVVertex@1@I@Z) в функции __catch$_main$6.
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: virtual __thiscall sf::VertexArray::~VertexArray(void)" (__imp_??1VertexArray@sf@@UAE@XZ) в функции __catch$_main$6.
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: __thiscall sf::View::View(class sf::Vector2<float> const &,class sf::Vector2<float> const &)" (__imp_??0View@sf@@QAE@ABV?$Vector2@M@1@0@Z) в функции __catch$_main$6.
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: void __thiscall sf::View::setSize(float,float)" (__imp_?setSize@View@sf@@QAEXMM@Z) в функции __catch$_main$6.
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: void __thiscall sf::View::move(class sf::Vector2<float> const &)" (__imp_?move@View@sf@@QAEXABV?$Vector2@M@2@@Z) в функции __catch$_main$6.
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: void __thiscall sf::View::zoom(float)" (__imp_?zoom@View@sf@@QAEXM@Z) в функции __catch$_main$6.
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: void __thiscall sf::RenderTarget::clear(class sf::Color const &)" (__imp_?clear@RenderTarget@sf@@QAEXABVColor@2@@Z) в функции __catch$_main$6.
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: void __thiscall sf::RenderTarget::setView(class sf::View const &)" (__imp_?setView@RenderTarget@sf@@QAEXABVView@2@@Z) в функции __catch$_main$6.
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: void __thiscall sf::RenderTarget::draw(class sf::Drawable const &,class sf::RenderStates const &)" (__imp_?draw@RenderTarget@sf@@QAEXABVDrawable@2@ABVRenderStates@2@@Z) в функции __catch$_main$6.
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: __thiscall sf::RenderWindow::RenderWindow(class sf::VideoMode,class sf::String const &,unsigned int,struct sf::ContextSettings const &)" (__imp_??0RenderWindow@sf@@QAE@VVideoMode@1@ABVString@1@IABUContextSettings@1@@Z) в функции __catch$_main$6.
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: virtual __thiscall sf::RenderWindow::~RenderWindow(void)" (__imp_??1RenderWindow@sf@@UAE@XZ) в функции __catch$_main$6.
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: static class sf::RenderStates const sf::RenderStates::Default" (__imp_?Default@RenderStates@sf@@2V12@B) в функции __catch$_main$6.
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: static class sf::Color const sf::Color::Black" (__imp_?Black@Color@sf@@2V12@B) в функции __catch$_main$6.
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: static class sf::Color const sf::Color::White" (__imp_?White@Color@sf@@2V12@B) в функции __catch$_main$6.
+A:\projects\cpp\diffEquationCalculator\Debug\diffEquationCalculator.exe : fatal error LNK1120: неразрешенных внешних элементов: 23
